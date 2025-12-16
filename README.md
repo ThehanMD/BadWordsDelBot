@@ -1,0 +1,2 @@
+# BadWordsDelBot
+a simple bot
